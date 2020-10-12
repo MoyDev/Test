@@ -1,0 +1,11 @@
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\bin\SRNProject.dll.config
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\bin\SRNProject.dll
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\bin\SRNProject.pdb
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\bin\SRNProject.xml
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\obj\Release\SRNProject.vbprojAssemblyReference.cache
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\obj\Release\SRNProject.Resources.resources
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\obj\Release\SRNProject.vbproj.GenerateResource.cache
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\obj\Release\SRNProject.vbproj.CoreCompileInputs.cache
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\obj\Release\SRNProject.dll
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\obj\Release\SRNProject.xml
+D:\BK_20180319\DriveD\Customized\CUSTOMER\SRN\001-DEV\SRNProject\SRNProject\obj\Release\SRNProject.pdb
